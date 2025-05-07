@@ -1,0 +1,8 @@
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.AssemblyInfoInputs.cache
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.AssemblyInfo.cs
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.csproj.CoreCompileInputs.cache
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.RazorAssemblyInfo.cache
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.RazorAssemblyInfo.cs
+/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/Debug/net9.0/BooksBridgeApp.sourcelink.json

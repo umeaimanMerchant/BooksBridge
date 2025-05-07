@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/priyankajammu/BooksBridge/BooksBridgeApp.csproj": {}
+    "/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/BooksBridgeApp.csproj": {}
   },
   "projects": {
-    "/Users/priyankajammu/BooksBridge/BooksBridgeApp.csproj": {
+    "/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/BooksBridgeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/priyankajammu/BooksBridge/BooksBridgeApp.csproj",
+        "projectUniqueName": "/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/BooksBridgeApp.csproj",
         "projectName": "BooksBridgeApp",
-        "projectPath": "/Users/priyankajammu/BooksBridge/BooksBridgeApp.csproj",
-        "packagesPath": "/Users/priyankajammu/.nuget/packages/",
-        "outputPath": "/Users/priyankajammu/BooksBridge/obj/",
+        "projectPath": "/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/BooksBridgeApp.csproj",
+        "packagesPath": "/Users/umeaimanmerchant/.nuget/packages/",
+        "outputPath": "/Users/umeaimanmerchant/Desktop/Learn Web Development/BooksBridgeApp/BooksBridgeApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/priyankajammu/.nuget/NuGet/NuGet.Config"
+          "/Users/umeaimanmerchant/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
