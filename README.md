@@ -80,8 +80,5 @@ Our relational data model includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/umeaimanMerchant/Group-5-A3-Project-Web-Look-and-Feel.git
-   cd Group-5-A3-Project-Web-Look-and-Feel
+   git clone https://github.com/umeaimanMerchant/BooksBridge.git
 
-
-   
