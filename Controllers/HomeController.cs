@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using BooksBridgeApp.Models;
+using BookBridgeApp.Models;
 
-namespace BooksBridgeApp.Controllers;
+namespace BookBridgeApp.Controllers;
 
 public class HomeController : Controller
 {
@@ -19,6 +19,12 @@ public class HomeController : Controller
     }
 
     public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    // ✅ NEW: DataVisualization Action
+    public IActionResult DataVisualization()
     {
         return View();
     }

@@ -1,4 +1,4 @@
-namespace BooksBridgeApp.Models;
+namespace BookBridgeApp.Models;
 
 public class ErrorViewModel
 {
