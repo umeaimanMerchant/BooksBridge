@@ -59,9 +59,9 @@ Our relational data model includes:
 
 | Name       | Role                      | Responsibilities |
 |------------|---------------------------|------------------|
-| Gopi       | Backend Developer         | UI design and user experience |
+| Priyanka   | Frontend Developer         | UI design and user experience |
 | Hriday     | Data Visualization Specialist | Built all charts and trend visualizations |
-| Priyanka   | Frontend Developer          | Server-side logic and data structure |
+| Gopi       | Backend Developer          | Server-side logic and data structure |
 | Umeaiman   | CRUD Operations Specialist | Create, read, update, delete workflows |
 
 ---
